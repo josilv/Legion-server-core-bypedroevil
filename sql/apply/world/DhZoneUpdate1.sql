@@ -1,0 +1,2 @@
+DELETE FROM `creature_template` WHERE `entry`=93105;
+INSERT INTO `creature_template` VALUES (93105, 0, 0, 0, 95226, 0, 68182, 0, 0, 0, 'Inquisitor Baleful', '', '', NULL, NULL, 0, 98, 98, 5, 0, 0, 954, 0, 1, 1.14286, 1, 0, 0, 2000, 2000, 1, 1, 2, 32832, 2099200, 0, 0, 0, 0, 0, 0, 3, 2147483752, 0, 93105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 'SmartAI', 0, 3, 1, 5.5, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 'npc_inquisitor_baleful', 26365);
